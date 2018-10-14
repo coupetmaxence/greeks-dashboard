@@ -10,5 +10,5 @@ Technologies used : R, Rshiny, Plotly
 
 
 
-![alt text](https://github.com/coupetmaxence/autocall-backtester/blob/master/screenshot1.png)
-![alt text](https://github.com/coupetmaxence/autocall-backtester/blob/master/screenshot2.png)
+![alt text](https://github.com/coupetmaxence/greeks-dashboard/blob/master/screenshot1.png)
+![alt text](https://github.com/coupetmaxence/greeks-dashboard/blob/master/screenshot2.png)
